@@ -15,4 +15,4 @@ And: Utilizatorul ar trebui sa fie redirectionat pe pagina de logare
 
 
 
-NOW
+NOW is what
