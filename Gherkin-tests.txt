@@ -1,0 +1,14 @@
+Scenario 2: Utilizatorul nu poate plasa o recenzie in sectiunea “Recenzii”
+Given: Utilizatorul se afla in sectiunea “Recenzii” de pe pagina “Ceas inteligent Apple Watch Series 9 GPS 45mm Midnight - S/M MR993”
+When: Utilizatorul tapeaza textul “Veri gud cias”
+And: Utilizatorul selecteaza una din cele 5 stelute disponibile
+And: Utilizatorul apasa click pe butonul “Lasa o recenzie”
+Then : Mesajul nu ar trebui sa fie publicat in sectiunea “Recenzii”
+And: Utilizatorul ar trebui sa fie redirectionat pe pagina de logare
+<aici nu ar trebui sa fie spatiu>
+Given: Utilizatorul se afla in sectiunea “Recenzii” de pe pagina “Ceas inteligent Apple Watch Series 9 GPS 45mm Midnight - S/M MR993”
+When: Utilizatorul tapeaza textul “Veri gud cias”
+And: Utilizatorul selecteaza una din cele 5 stelute disponibile
+And: Utilizatorul apasa click pe butonul “Lasa o recenzie”
+Then : Mesajul nu ar trebui sa fie publicat in sectiunea “Recenzii”
+And: Utilizatorul ar trebui sa fie redirectionat pe pagina de logare
